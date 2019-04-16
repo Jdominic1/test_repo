@@ -7,4 +7,4 @@ image_resource:
 
 run:
   path: echo
-  args: [hello test repo1]
+  args: [hello test repo2]
